@@ -1,0 +1,1 @@
+CREATE TABLE rs_test(id int , name varchar(100));
