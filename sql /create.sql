@@ -1,1 +1,1 @@
-CREATE TABLE rs_test(id int , name varchar(100));
+CREATE TABLE rs_test(id int , rs_name varchar(100));
